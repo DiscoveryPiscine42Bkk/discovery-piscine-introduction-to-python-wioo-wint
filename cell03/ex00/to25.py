@@ -1,4 +1,5 @@
-input_num = int(input("Enter a number less than 25:"))
+#!/bin/python3
+input_num = int(input("Enter a number less than 25 \n"))
 
 if input_num > 25:
     print("Error")
