@@ -1,3 +1,4 @@
+#!/bin/python3
 input_num = float(input("Give me a number: "))
 
 if(input_num.is_integer()):

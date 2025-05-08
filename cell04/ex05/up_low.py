@@ -1,3 +1,4 @@
+#!/bin/python3
 input_string = input("Enter a string: ")
 result = ""
 for s in input_string:
