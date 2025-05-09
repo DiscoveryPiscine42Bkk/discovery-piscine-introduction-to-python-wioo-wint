@@ -9,7 +9,7 @@ def main():
         for i in range(1, n):
             with open(sys.argv[i], "r") as file:
                 board = file.read()
-                print(board)
+                print(board,'\n')
                 checkmate(board)
 
 if __name__ == "__main__":
